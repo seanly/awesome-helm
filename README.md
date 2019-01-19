@@ -65,6 +65,7 @@ Plugins
 * [Helm Secrets](https://github.com/futuresimple/helm-secrets) - A helm plugin to manage and store secrets safely
 * [Helm Monitor](https://github.com/ContainerSolutions/helm-monitor) - Plugin to monitor a release and rollback based on Prometheus/ElasticSearch query
 * [Helm S3](https://github.com/hypnoglow/helm-s3) - Helm plugin that allows to use AWS S3 as a **private** chart repository
+* [Helm Edit](https://github.com/mstrzele/helm-edit) - Edit a Helm release
 
 Tools, Extras
 -------------
