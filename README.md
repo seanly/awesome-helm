@@ -54,6 +54,7 @@ These usually hold a single chart or a group of connected charts. Can be more up
 * [Eclipse Che](http://www.eclipse.org/che/docs/kubernetes-multi-user.html) - instructions to install the Eclipse Che from the Helm chart bundled with the app
 * [Gravitee.io](https://github.com/gravitee-io/gravitee-kubernetes/tree/master/gravitee) - Helm chart for Gravitee.io API management platform
 * [Kubernetes Helm Charts](https://github.com/helm/charts) - Curated applications for Kubernetes
+* [Helm Charts-Github](https://github.com/ContainerSolutions/helm-charts) - 一个基于Github实现的仓库
 
 Plugins
 -------
