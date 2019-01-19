@@ -23,6 +23,7 @@ Guides
 * [Best practices](https://github.com/kubernetes/helm/tree/master/docs/chart_best_practices) - set of best practices for authoring chart
 * [Authoring awesome charts](https://github.com/helm/helm-classic/blob/master/docs/awesome.md) - official Helm guide on authoring Awesome Charts
 * [Kompose](https://kubernetes.io/docs/tasks/configure-pod-container/translate-compose-kubernetes/) - how to translate a docker-compose file into a Helm chart
+* [Helm文档](https://github.com/whmzsu/helm-doc-zh-cn) - Helm文档
 
 Repositories / hubs
 -------------------
