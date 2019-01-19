@@ -45,11 +45,11 @@ These usually hold a single chart or a group of connected charts. Can be more up
 * [Gitlab Omnibus](https://charts.gitlab.io) - an All-In-One chart for deploying Gitlab in Kubernetes
 * [Gitlab Cloud-native](https://helm.gitlab.io/) - a fresh start for Gitlab Kubernetes deployment, services are now split into their own containers
 * [Jupyterhub and Binderhub](https://jupyterhub.github.io/helm-chart/) - charts for deploying services to run Jupyter notebooks
-* [VMware Harbor](https://github.com/vmware/harbor/tree/master/contrib/helm/harbor) - VMWare's solution for a container registry
+* [VMware Harbor](https://github.com/goharbor/harbor-helm) - VMWare's solution for a container registry
 * [OpenStack](https://github.com/openstack/openstack-helm) - various charts by the OpenStack project
 * [Fn Project](https://github.com/fnproject/fn-helm) - Fn serverless platform charts
 * [Lenses](https://github.com/Landoop/kafka-helm-charts) - charts for Lenses, Apache Kafka, Kafka Connect and other components for data streaming and data integration
-* [Zalenium](https://github.com/zalando/zalenium/tree/master/docs/k8s/helm) - flexible and scalable container based Selenium Grid with video recording, live preview, basic auth & dashboard
+* [Zalenium](https://github.com/zalando/zalenium) - flexible and scalable container based Selenium Grid with video recording, live preview, basic auth & dashboard
 * [Elasticsearch Fluentd Kibana](https://github.com/cdwv/efk-stack-helm) - chart to deploy a full EFK stack for Kubernetes monitoring
 * [Eclipse Che](http://www.eclipse.org/che/docs/kubernetes-multi-user.html) - instructions to install the Eclipse Che from the Helm chart bundled with the app
 * [Gravitee.io](https://github.com/gravitee-io/gravitee-kubernetes/tree/master/gravitee) - Helm chart for Gravitee.io API management platform
