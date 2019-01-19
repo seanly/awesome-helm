@@ -74,7 +74,7 @@ Helm-related tools
 * [Monocular](https://github.com/helm/monocular) - A web-based application that enables the search and discovery of charts from multiple Helm Chart repositories
 * [Ship](https://github.com/replicatedhq/ship) - A tool that makes it easy to watch and apply updates to Helm charts and integrates [Kustomize](https://kustomize.io) patches and overlays
 * [Helmsman](https://github.com/Praqma/helmsman) - A Helm Charts as Code tool.
-
+* [GitOps Helm](https://github.com/stefanprodan/gitops-helm) - Managing Helm releases with Weave Flux Helm Operator
 Community
 ---------
 Forums, discussion groups, SO tags.
